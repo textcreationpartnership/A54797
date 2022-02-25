@@ -1,0 +1,485 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A poem on the coronation of His Most Sacred Majesty, James the Second by the grace of God of England, Scotland, France and Ireland, defender of the faith, &amp;c. and of his royal consort, our gracious Queen Mary / (attempted) by R. Phillips.</title>
+            <author>Phillips, R.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54797</idno>
+            <idno type="STC">Wing P2115</idno>
+            <idno type="STC">ESTC R36678</idno>
+            <idno type="EEBO-CITATION">15869497</idno>
+            <idno type="OCLC">ocm 15869497</idno>
+            <idno type="VID">104657</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54797)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104657)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1154:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A poem on the coronation of His Most Sacred Majesty, James the Second by the grace of God of England, Scotland, France and Ireland, defender of the faith, &amp;c. and of his royal consort, our gracious Queen Mary / (attempted) by R. Phillips.</title>
+                  <author>Phillips, R.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F. Millet for P. Brooksby,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXXXV [1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Poetry.</term>
+               <term>Mary, --  of Modena, Queen, consort of James II, King of England, 1658-1718 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:104657:1" rendition="simple:additions"/>
+            <p>A POEM ON THE CORONATION OF His Moſt Sacred Majeſty King James <hi>the</hi> Second <hi>By the Grace of</hi> GOD Of England, Scotland, France, <hi>and</hi> Ireland, <hi>Defender of the Faith. &amp;c.</hi>
+            </p>
+            <p>And of His Royal CONSORT OUR GRACIOUS QUEEN MARY.</p>
+            <p>(Attempted) By <hi>R. PHILLIPS.</hi>
+            </p>
+            <q xml:lang="lat">
+               <l>Largus enim liquidi Fons Luminis Aetherius Sol</l>
+               <l>Irrigat aſsidue Coelum candore recenti</l>
+               <l>Suppedit at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> novo Confestim Lumine Lumen.</l>
+               <bibl>LUCR.</bibl>
+            </q>
+            <p>Entred according to Order.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. Millet,</hi> for <hi>P. Brooksby,</hi> MDCLXXXV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:104657:2"/>
+            <pb n="1" facs="tcp:104657:2" rendition="simple:additions"/>
+            <head>A POEM ON THE Coronation Of His Moſt Sacred Majeſty King <hi>James</hi> the Second, <hi>&amp;c.</hi>
+            </head>
+            <lg>
+               <l>IN <hi>ALBANY</hi> the Humble <hi>Sheaves</hi> do now</l>
+               <l>(As <hi>Jacob</hi>'s Children did) to <hi>Joſeph</hi> Bow;</l>
+               <l>Who is it? from the Wilderneſs draws near,</l>
+               <l>And like a <hi>Cloud of Incenſe</hi> does appear;</l>
+               <l>Before whoſe <hi>Bed</hi> the <hi>Mighty</hi> of the Land,</l>
+               <l>(The <hi>Sixty-Valiant</hi>) Girt with Swords do ſtand;</l>
+               <l>Whoſe <hi>Throne</hi> is <hi>Silver,</hi> and whoſe <hi>Seat</hi> is <hi>Gold,</hi>
+               </l>
+               <l>
+                  <hi>Jeruſalem</hi> with Joy may now behold.</l>
+            </lg>
+            <lg>
+               <l>Behold! the <hi>(Q<g ref="char:V">Ʋ</g>EEN)</hi> the <hi>Glorious-Shulamite,</hi>
+               </l>
+               <l>As <hi>Tirzah</hi> Beautiful, as <hi>Armies</hi> Bright.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Hebrews</hi> (like <hi>Divine-Arion</hi>) Strung</l>
+               <l>Their Warbling-Lutes (that on the Willows hung;)</l>
+               <l>But how could they the Songs of <hi>Sion</hi> Sing?</l>
+               <l>While <hi>Sion</hi> Wept for her Deceaſed KING.</l>
+               <l>Now Storms by Tears are Huſh'd, as Winds with Rain,</l>
+               <l>And (loe) the <hi>Halcyon-Day,</hi> and <hi>Dove</hi> again;</l>
+               <l>
+                  <hi>Fair</hi> Cynthia's <hi>Lamps</hi> (that lie in Spangled-Beds)</l>
+               <l>(Like little Glow-Worms Bluſhing) hide their Heads;</l>
+               <l>
+                  <pb n="2" facs="tcp:104657:3"/>
+While the <hi>Bleſt-Sun</hi> the World with <hi>Beauty</hi> fills,</l>
+               <l>Melts down the Snow, and warms the <hi>Froſty-Hills.</hi>
+               </l>
+               <l>See! how he Thaws away the <hi>Icy-Chains,</hi>
+               </l>
+               <l>That bound the <hi>Tender-Springs-ſoft-Violet-Veins.</hi>
+               </l>
+               <l>See! how the Shaddows flee with <hi>Dews,</hi> and <hi>Cold,</hi>
+               </l>
+               <l>How all the <hi>Earth</hi> appears in <hi>Glittering-Gold.</hi>
+               </l>
+               <l>The <hi>Night.</hi>—ſtood Tip-toe on the Mountains-Top,</l>
+               <l>And, Reeling down, did <hi>Miſtie-Jewels</hi> Drop.</l>
+               <l>See! how he Mounts into his <hi>Glorious-Chair,</hi>
+               </l>
+               <l>How, like ſome <hi>Mighty-Conquerour</hi> in War,</l>
+               <l>He Chaces <hi>Clouds</hi> (as Enemies) away,</l>
+               <l>And brings (in Pomp.) <hi>the Bright-Triumphant-Day.</hi>
+               </l>
+               <l>See! how the Flowers their <hi>Blooming-Curtains</hi> ſpread,</l>
+               <l>How beauteouſly they Mottle every Mead;</l>
+               <l>The New-born-Buds, their <hi>Infant-Leaves</hi> Diſplay,</l>
+               <l>And ſtrow <hi>Sweet-Bloſſoms</hi> to Perfume his Way;</l>
+               <l>The Tulips in their <hi>Sattin-Coats</hi> appear,</l>
+               <l>And Crimſon-Gowns the <hi>Virgin-Roſes</hi> wear;</l>
+               <l>The Lilly <hi>(Lady of the Field)</hi> in White,</l>
+               <l>(As Innocence) does imitate the Light.</l>
+               <l>See! how Divinely-Fair the <hi>Waters</hi> look,</l>
+               <l>The <hi>Chriſtal-Fountain</hi> and the <hi>Silver-Brook,</hi>
+               </l>
+               <lg>
+                  <l>Waſht-clean, and curl'd <hi>abroad,</hi> do Glide and Rove,</l>
+                  <l>Peep on the <hi>Masky-Bank,</hi> and <hi>Vizard-Grove,</hi>
+                  </l>
+                  <l>And Murmur till they find their <hi>Primroſe-Love.</hi>
+                  </l>
+               </lg>
+               <l>See! how the Gentle-Linet <hi>Fanns</hi> her Wing,</l>
+               <l>While Nightingales Melodious Anthems Sing;</l>
+               <lg>
+                  <l>The Birds upon the yielding Poplar-ſprays,</l>
+                  <l>Marry their Notes for to Unite his Praiſe,</l>
+                  <l>While round the World he ſprinkles <hi>Chearful-Rays.</hi>
+                  </l>
+               </lg>
+               <l>The <hi>KING</hi> admir'd does <hi>(Thus)</hi> Aſcend the <hi>Throne,</hi>
+               </l>
+               <l>(And as a <hi>Saviour</hi>) takes a <hi>Thorny</hi>-Crown,</l>
+               <l>That All the <hi>Nation</hi> may in him be Bleſt,</l>
+               <l>(Under the <hi>Royal-Vine</hi> ſecurely reſt.)</l>
+               <lg>
+                  <l>But (loe) beſides the <hi>Wreath of Gold</hi> he wears,</l>
+                  <l>(A Mortal-Mixture made of <hi>Pearls</hi> and <hi>Cares,</hi>)</l>
+                  <l>He has in <hi>Heav'n</hi> a <hi>Diadem</hi> of Stars.<note place="margin">n="*"<hi>Charles</hi> his Wa<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n.</note>
+                  </l>
+               </lg>
+            </lg>
+            <lg>
+               <l>As <hi>Heroes</hi> ſtrove in the <hi>Olimpian Game,</hi>
+               </l>
+               <l>So all the Poets Wreſtle for his Fame;</l>
+               <l>
+                  <hi>Amphion</hi> will his Charming-Viol ſtring,</l>
+               <l>And, <hi>Maro</hi>-like, of <hi>Great-Mecenas</hi> Sing;</l>
+               <l>Whether he Sings of Beeches, Bees, or Bays,</l>
+               <l>Sweet (as <hi>Apollo</hi>'s-<hi>Wiſdom</hi>) are his Lays.</l>
+               <l>
+                  <hi>Orpheus</hi> his <hi>Golden-Harp</hi> again will take,</l>
+               <l>And of the <hi>Iſland</hi> and <hi>Eliſian</hi> make;</l>
+               <l>
+                  <pb n="3" facs="tcp:104657:3"/>
+Before him they will like the <hi>Mothers</hi> ſtrive,</l>
+               <l>Whoſe is the <hi>Dead,</hi> and who's the <hi>Child</hi> Alive.</l>
+               <l>Search all the Records of the <hi>Antique-Age,</hi>
+               </l>
+               <l>(Not yet quite Conquer'd by Oblivions Rage,)</l>
+               <l>And early <hi>Similes</hi> from thence will bring,</l>
+               <l>Of ſome Great <hi>Hannibal,</hi> or <hi>Godlike-King.</hi>
+               </l>
+               <l>Fancy can flee ſwift as the Nimble Roe,</l>
+               <l>Or Youthful-Hart that in <hi>Mount Bether</hi> go.</l>
+               <l>
+                  <hi>Wit,</hi> like a <hi>Torch,</hi> will her own <hi>Fire</hi> Conſume,</l>
+               <l>Each minute offering <hi>Incence</hi> and <hi>Perfume:</hi>
+               </l>
+               <lg>
+                  <l>Spending with Joy her ſweeteſt <hi>Force</hi> and <hi>Might,</hi>
+                  </l>
+                  <l>Till ſhe grow blind by giving others ſight,</l>
+                  <l>As <hi>Homer</hi> did, whoſe Learning gave us Light.</l>
+               </lg>
+               <l>But now by <hi>Dark-Degrees</hi> goes back in Men,</l>
+               <l>Yet <hi>Heav'n</hi> may work a Miracle agen:</l>
+               <l>As when the <hi>Hebrews Aarons-Ephod</hi> wrought,</l>
+               <l>Unthinking-<hi>Iſrael Jehovah</hi> taught.</l>
+            </lg>
+            <lg>
+               <l>'Tis true, that <hi>Art</hi> and <hi>Knowledge</hi> both are vain,</l>
+               <l>Leave like a <hi>Snail</hi> (at beſt) a <hi>Silver-ſtain:</hi>
+               </l>
+               <l>Yet Duty as a <hi>Spirit</hi> Compact of Fire,</l>
+               <l>Should never ſink, but like a <hi>Flame</hi> aſpire:</l>
+               <l>Mount like the <hi>Coach</hi> in which the Prophet lay,</l>
+               <l>Wondring (e're yet he ſaw) <hi>Eternal-Day.</hi>
+               </l>
+               <lg>
+                  <l>The <hi>Mariner</hi> the Pathleſs Ocean tries,</l>
+                  <l>(And like another <hi>bold-Columbus</hi> flies,)</l>
+                  <l>With <hi>Airy-Wings</hi> for his Illuſtrious-Prize.</l>
+               </lg>
+               <l>He often Lands (we ſee) his <hi>Golden-Oar,</hi>
+               </l>
+               <l>His <hi>Spice</hi> and <hi>Gums</hi> come ſafely to the Shore.</l>
+               <l>But if like <hi>Icarus</hi> our <hi>Wings</hi> we raiſe,</l>
+               <l>We muſt be loſt in the <hi>vaſt Sea of Praiſe;</hi>
+               </l>
+               <l>E're we to <hi>Lebanons-Green-Grove</hi> repair,</l>
+               <l>To fetch <hi>Immortal-Palms</hi> that flouriſh there.</l>
+            </lg>
+            <lg>
+               <l>Yet each a <hi>Mirror</hi> holds, that all may ſee,</l>
+               <l>The <hi>Bright-Idea</hi> of Divinity.</l>
+               <l>The Muſes like <hi>Arachne,</hi> do impart,</l>
+               <l>In their Imbroidered-Arras various Art.</l>
+               <l>Here <hi>Angels</hi> ſeem upon an <hi>Azure-Cloud,</hi>
+               </l>
+               <l>To ſing their <hi>Halelujahs</hi> ſweet and loud:</l>
+               <l>VVhile <hi>Gileads-Balm</hi> by <hi>Samuel</hi> is ſhed</l>
+               <l>Upon the Princely-Prophets Sacred Head.</l>
+               <l>By <hi>Figures</hi> we may ſhaddow things Divine,</l>
+               <l>To make the Truth the more Perſpicuous ſhine:</l>
+               <l>There <hi>Joſhua</hi> is ſent by <hi>Heav'ns</hi> high Will,</l>
+               <l>To make <hi>Diviſions-Son</hi> and <hi>Sons</hi> ſtand ſtill;</l>
+               <l>To lead the <hi>Hebrews</hi> to the <hi>Promis'd-Land,</hi>
+               </l>
+               <l>And fright the <hi>Amorite</hi> with all his Band.</l>
+               <l>
+                  <pb n="4" facs="tcp:104657:4"/>
+Here <hi>Juſtice</hi> onely bears a <hi>Gardners-Knife,</hi>
+               </l>
+               <l>To Prune <hi>Bad-Boughs,</hi> and ſave the <hi>Scions</hi> Life.</l>
+               <l>
+                  <hi>Mercy</hi> does like a <hi>Skill'd-Chyrugeon</hi> deal,</l>
+               <l>VVhen Gentle means and <hi>Balſom</hi> will not Heal;</l>
+               <l>VVhen (ſtill) the growing-VVound does feſtring ſpread,</l>
+               <l>She cuts a <hi>Finger</hi> off to ſave a <hi>Head.</hi>
+               </l>
+               <l>There <hi>Laws</hi> like <hi>Fountains</hi> ſeated on a <hi>Hill,</hi>
+               </l>
+               <l>VVith VVholſome-Streams abroad do <hi>(Yonder)</hi> Trill;</l>
+               <l>And if they ever Thick and Mirie grow,</l>
+               <l>The <hi>Channels</hi> are in fault that lye below.</l>
+               <l>
+                  <hi>Ambition</hi> and <hi>Diſtruſt</hi> on either hand,</l>
+               <l>Like two <hi>Red Seas</hi> Wall'd in with <hi>Waves,</hi> do ſtand:</l>
+               <l>Here one might view the <hi>Cities</hi> of the Plain,</l>
+               <l>On which the <hi>Heav'ns</hi> did <hi>Fire</hi> and <hi>Brimſtone</hi> Rain:</l>
+               <l>But <hi>Faith</hi> like <hi>Little-Zoar, Lot</hi> doth ſave,</l>
+               <l>VVhen all the reſt do find a <hi>Burning</hi> Grave,</l>
+               <l>Firm <hi>Faith</hi> does always like <hi>Young David</hi> fare,</l>
+               <l>That ſtrangely Kill'd <hi>Goliah</hi> and the <hi>Bear.</hi>
+               </l>
+               <l>
+                  <hi>Obedience</hi> like ſome fair and Fertile <hi>Vine,</hi>
+               </l>
+               <l>Her goodly Branches loweſt did decline.</l>
+               <l>Of <hi>Fortunes-Storms</hi> ſhe need not ſtand in fear,</l>
+               <l>Hid under <hi>Leaves</hi> her <hi>Grapes</hi> in ſafety are.</l>
+               <l>
+                  <hi>Goodneſs</hi> all round the <hi>Nations Skirts</hi> was ſpread,</l>
+               <l>Like precious Oyntment upon <hi>Aarons</hi> Head.</l>
+            </lg>
+            <lg>
+               <l>How great were are all his Loyal Sujects fears,</l>
+               <l>VVhen <hi>Seas</hi> contending with their <hi>Tides</hi> of Tears,</l>
+               <l>At laſt fell out and made a Diſmal Rore,</l>
+               <l>To bear their <hi>Prince</hi> to his Expecting Shore.</l>
+               <l>VVell might there Strife and Emulation be,</l>
+               <l>The VVaters knew the <hi>Soveraign of the Sea.</hi>
+               </l>
+               <l>In Rougheſt Billows his Undaunted Breaſt,</l>
+               <l>Untoucht with Danger, found a <hi>Heav'n</hi> of Reſt.</l>
+               <l>So <hi>Julius-Caeſar</hi> in a Tempeſt ſtood,</l>
+               <l>Amaz'd the <hi>Boat-man,</hi> and the <hi>Wondring-Flood.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Geomitricians</hi> viewing <hi>Heav'ns fair Ball,</hi>
+               </l>
+               <l>May think the <hi>World</hi> does in their Compaſs fall;</l>
+               <l>But Sailing forth, in little time <hi>Diſcern</hi>
+               </l>
+               <l>
+                  <hi>Regions,</hi> which by their Mapps they ne'r could learn:</l>
+               <l>So when we think to make a <hi>Beauteous-Chain,</hi>
+               </l>
+               <l>Of all the Vertues Nature does contain,</l>
+               <l>Experience mocks our weak and ſimple pain,</l>
+               <l>So vaſt we find the <hi>Glorious-Heav'nly Train:</hi>
+               </l>
+               <l>(So Numberleſs) by <hi>Art</hi> can ne'r be told,</l>
+               <l>
+                  <hi>Rich</hi> and as <hi>Bright</hi> as <hi>Tagus Sands of Gold.</hi>
+               </l>
+               <l>
+                  <pb n="5" facs="tcp:104657:4"/>
+All that we can of <hi>Heav'nly-Canaan</hi> know,</l>
+               <l>Is this—that there can no Diſorder grow,</l>
+               <l>Where Rivers of Eternal Vertues flow.</l>
+               <l>
+                  <hi>Concord</hi> (that ſweet Muſitian) Tunes the Strings,</l>
+               <l>And makes the <hi>Happy</hi> ſtretch their Hallowed-Wings;</l>
+               <l>While <hi>Miriam</hi> on the <hi>Sacred Timbrel</hi> Rings,</l>
+               <l>Immortal Praiſes to the <hi>King of Kings.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Now is the <hi>Golden Age</hi> that Poets fain,</l>
+               <l>Great <hi>Conſtantine</hi> the <hi>Scepter</hi> ſways again;</l>
+               <l>Greater then <hi>Cyrus</hi> or <hi>Veſpaſions</hi> Son,</l>
+               <l>Or him that all <hi>Darius Empire</hi> Won.</l>
+               <l>The <hi>Heav'nly Atlas</hi> that appears Divine,</l>
+               <l>On whoſe Rich-ſhoulders all the <hi>Stars</hi> do ſhine.</l>
+               <l>
+                  <hi>Fame</hi> with her <hi>Diamond Pen</hi> will Write his Name</l>
+               <l>On <hi>Adamant,</hi> for ever to remain.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>nion</hi> the <hi>King</hi> and <hi>Princes</hi> does Unite,</l>
+               <l>And makes a <hi>Damask-Roſe</hi> of <hi>Red</hi> and <hi>White.</hi>
+               </l>
+               <lg>
+                  <l>The <hi>Cynick</hi> in his <hi>Tub</hi> delight may find,</l>
+                  <l>(While <hi>Alexander Raigne</hi> ſo Mild, ſo Kind)</l>
+                  <l>So ſweet a Tenant is Content of Mind.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>Though <hi>Moſes-Buſh</hi> did <hi>Flame,</hi> it did not ſear,</l>
+               <l>
+                  <hi>Flame</hi> to create as well Delight as Fear.</l>
+               <l>All Earthly-Fires and Flames, though ne'r ſo great,</l>
+               <l>(Excepting <hi>Subjects Love</hi>) abate their Heat;</l>
+               <l>But thoſe Quick-Lights the more they are ſuppreſt,</l>
+               <l>The will more <hi>ſhine</hi> in the <hi>Inflamed Breast.</hi>
+               </l>
+               <l>Not like to <hi>Euripus,</hi> whoſe Ebb and Flow,</l>
+               <l>By varying does her own Inconſtance ſhow.</l>
+               <l>What <hi>Vaſſal-Spirit</hi> can now Diſpair or Faint,</l>
+               <l>Protected by ſo ſtrong, ſo ſure a <hi>Saint!</hi>
+               </l>
+               <l>The <hi>Winter</hi> of all Fear is paſt and gone,</l>
+               <l>Can we feel <hi>Cold</hi> that are ſo near the <hi>Sun?</hi>
+               </l>
+               <l>
+                  <hi>Alcides</hi> cannot hurt the Kingdoms Peace,</l>
+               <l>Nor <hi>Jaſon</hi> ſteal away her <hi>Golden-Fleece.</hi>
+               </l>
+               <l>
+                  <hi>Wiſdom</hi> that <hi>Fixed-Star</hi> ſtands firm and faſt,</l>
+               <l>While <hi>Comet-Folly Blazing</hi> out, does waſte.</l>
+               <l>But ſimple Men will <hi>Burning Glaſſes</hi> blame,</l>
+               <l>When their own <hi>Idle Hands</hi> Unite the Flame.</l>
+               <lg>
+                  <l>
+                     <hi>Subjects</hi> are <hi>Dials, Princes Suns</hi> that ſhine,</l>
+                  <l>'Tis by their <hi>Light</hi> that Men ſhow <hi>bright</hi> and <hi>fine,</hi>
+                  </l>
+                  <l>The <hi>Dial</hi> Dies with Clouds, with <hi>Beams</hi> appears Divine.</l>
+               </lg>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:104657:5"/>
+               <l>
+                  <hi>Fair Amalthea</hi> with her Plenteous Horn,</l>
+               <l>Brings us our Wine, and Milk, and Fruit, and Corn.</l>
+               <l>Bleſt are the <hi>Palace-Gates</hi> with Joyful Peace,</l>
+               <l>Bleſt are the <hi>Fruitful Barns,</hi> with ſweet encreaſe;</l>
+               <l>Bleſt are our <hi>Councils,</hi> by whoſe Learned Skill,</l>
+               <l>They make the happy Nation <hi>flouriſh</hi> ſtill:</l>
+               <l>In all things bleſt that to a <hi>Realm</hi> pertain,</l>
+               <l>But moſt in <hi>Great King James</hi> our <hi>Soveraign.</hi>
+               </l>
+               <l>Within the <hi>Treaſure</hi> of whoſe <hi>Gracious Eyes,</hi>
+               </l>
+               <l>Sweet <hi>Mercy</hi> and relenting <hi>Pitty</hi> lyes.</l>
+               <l>Long may he ſway the <hi>Scepter</hi> in his Hand,</l>
+               <l>And make <hi>Jeruſalem</hi> a Happy Land.</l>
+               <l>
+                  <hi>Obedience</hi> to whoſe Laws will plainly prove,</l>
+               <l>Whether we are true <hi>Gold,</hi> or Guilt with Love.</l>
+            </lg>
+            <lg>
+               <l>So <hi>Great,</hi> ſo <hi>
+                     <g ref="char:V">Ʋ</g>niverſal,</hi> is <hi>his Name,</hi>
+               </l>
+               <l>What can we find to Paralell <hi>his Fame?</hi>
+               </l>
+               <l>That <hi>Sion-Mount</hi> which none could e're remove,</l>
+               <l>The <hi>Hebrews Object</hi> of <hi>Delight</hi> and <hi>Love.</hi>
+               </l>
+               <l>Will laſt like that <hi>ſtrong Tower</hi> that <hi>David</hi> Built,</l>
+               <l>Whereon a <hi>Thouſand Shields</hi> did hang all <hi>Guilt.</hi>
+               </l>
+               <l>When Others <hi>Fame</hi> by <hi>Famine, Time</hi> ſhall ceaſe,</l>
+               <l>His (like <hi>Zareptas-Oyl</hi>) will then Encreaſe.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
